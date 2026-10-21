@@ -1,4 +1,4 @@
-<h1 align="center">Ayodeji Akinduko</h1>
+<h1 align="center">Ayodeji Samuel Akinduko</h1>
 
 <p align="center">
   <strong>Full-Stack Developer &nbsp;|&nbsp; AI Automation &nbsp;|&nbsp; Health-Tech Builder</strong>
